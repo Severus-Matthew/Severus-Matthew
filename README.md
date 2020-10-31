@@ -23,6 +23,10 @@ I am Manvi Jha😉, presently a Sophomore at National Institue of Technology Pat
 ✔ [C++ Language Solutions](https://github.com/Severus-Matthew/GitHub-Cpp-Hackerrank-Solution)
 ✔ [SQL solutions](https://github.com/Severus-Matthew/Hackerrank-solutions-SQl)
 
+#### `Xamarin Android Apps`
+✔ [Calculator App](https://github.com/Severus-Matthew/Xamarin_Calculator_app)
+✔ [TicTacToe Game App](https://github.com/Severus-Matthew/Xamarin_TicTacToe_game)
+
 #### `C/C++ Based Games`
 ✔ [Stone Paper Scissor Game](https://github.com/Severus-Matthew/Stone-Paper-Scissor-Game)
 ✔ [TicTacToe Game](https://github.com/Severus-Matthew/A-game-of-Tic-Tac-Toe)
