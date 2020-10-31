@@ -9,7 +9,7 @@ I am Manvi Jha😊, presently a Sophomore at National Institue of Technology Pat
 ✔Web Developmemt - HTML/CSS; ReactJS; AngularJS; NodeJS; WordPress, <br/>
 ✔Machine Learning with python libraries including Keras, tensorflow etc.,<br/>
 ✔Android Developmemt - Xamarin,<br/>
-✔Image Processing - MatLabcout<br/>
+✔Image Processing - MatLab<br/>
 ✔Hardware skills - Arduino; Node MCU; RaspberryPi<br/>
 
 <hr>
