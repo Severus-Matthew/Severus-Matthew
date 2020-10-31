@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub Page🤗🤗
 
-I am Manvi Jha😉, presently a Sophomore at National Institue of Technology Patna.🏛 I define myself as a curious learner and developer🤓.
+I am Manvi Jha😊, presently a Sophomore at National Institue of Technology Patna.🏛 I define myself as a curious learner and developer🤓.
 ### My skills include🍒 - <br/>
 ✔Coding - C/C++; Python; C#(with .NET framework) & shell script <br/>
 ✔Database - MySQL,<br/>
