@@ -15,6 +15,8 @@ I am Manvi Jha😊, presently a Sophomore at National Institue of Technology Pat
 <hr>
 <hr>
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Severus-Matthew&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=angular"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Severus-Matthew&layout=compact&theme=angular"></a>
+
 ### Exploring My Works-🧐
 
 #### `HACKERRANK SOLUTIONS`
