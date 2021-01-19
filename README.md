@@ -51,5 +51,6 @@ You can contact me on [LinkedIn](https://www.linkedin.com/in/manvi-jha-2784711a7
 My `Resume` can be found at [Resume](https://github.com/Severus-Matthew/Resume)
 <hr>
 
-# Happy Creating !!😀
+![image of the app](https://github.com/Severus-Matthew/Severus-Matthew/blob/main/OctoAsians_dex_Full.png)
+# Happy Creating !!😀 
 
