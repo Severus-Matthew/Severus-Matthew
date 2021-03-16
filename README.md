@@ -15,7 +15,7 @@ I am Manvi Jha😊, presently a Sophomore at National Institue of Technology Pat
 <hr>
 <hr>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Severus-Matthew&show_icons=true&include_all_commits=true&custom_title=Manvi's+GitHub+Stats&theme=radical"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Severus-Matthew&layout=compact&theme=radical"></a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Severus-Matthew&show_icons=true&count_private=true&include_all_commits=true&custom_title=Manvi's+GitHub+Stats&theme=radical"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Severus-Matthew&layout=compact&theme=radical"></a>
 
 ### Exploring My Works-🧐
 
