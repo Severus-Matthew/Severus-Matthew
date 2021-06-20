@@ -51,7 +51,6 @@ You can contact me on [LinkedIn](https://www.linkedin.com/in/manvi-jha-2784711a7
 My `Resume` can be found at [Resume](https://github.com/Severus-Matthew/Resume)
 <hr>
 
-<img height="200em" src="https://github.com/Severus-Matthew/Severus-Matthew/blob/main/hula_loop_octodex03.gif">
-
+![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
 # Happy Creating !!😀 
 
