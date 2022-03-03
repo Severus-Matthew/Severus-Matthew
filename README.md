@@ -1,5 +1,4 @@
 # Hola there 👋
-MLSA workshop..
 ### Welcome to my GitHub Page🤗🤗
 
 I am Manvi Jha😊, presently a Sophomore at National Institue of Technology Patna.🏛 I define myself as a curious learner and developer🤓.
