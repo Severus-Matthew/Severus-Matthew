@@ -6,8 +6,8 @@ I am Manvi Jha😊, presently a Sophomore at National Institue of Technology Pat
 ✔Coding - C/C++; Python; C#(with .NET framework) & shell script <br/>
 ✔Database - MySQL,<br/>
 ✔Web Developmemt - HTML/CSS; ReactJS; AngularJS; NodeJS; WordPress, <br/>
-✔Machine Learning with python libraries including Keras, tensorflow etc.,<br/>
-✔Android Developmemt - Xamarin,<br/>
+✔Machine Learning with python libraries including Keras; tensorflow etc.,<br/>
+✔Android Development - Xamarin,<br/>
 ✔Image Processing - MatLab<br/>
 ✔Hardware skills - Arduino; Node MCU; RaspberryPi<br/>
 
